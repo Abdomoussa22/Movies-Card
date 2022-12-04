@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+section{
+  background-color: #eee;
+  margin: 10px auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+section  h1{
+  font-weight: bold;
+  color: brown;
+  font-style: italic;
+  text-align: center;
+}
+section div{
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+section div h3{
+  font-size: 22px;
+  font-weight: bold;
+
+}
+section div p{
+  font-weight: bold;
+  font-size: 16px;
+  margin: 0 10px;
+}
+
